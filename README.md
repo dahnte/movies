@@ -3,7 +3,7 @@
 *WARNING* - Extract files before you run, otherwise application will not run properly!
 
 An application that is meant to show which movies two people have agreed to watch, using two .txt files ("x_master" & "x_rating", x being the first letter of the movie cateogry).
-Very simple automated way of giving an answer (yes, maybe, or no; answers will be based on "x_master"), which then produces a results file showing which movies were both agreed on, both given different answers on, and both said maybe on.
+Very simple automated way of giving an answer (yes, maybe, or no; answers will be based on "x_movielist"), which then produces a results file showing which movies were both agreed on, both given different answers on, and both said maybe on.
 
 Latest version includes:
   - Overall stability
