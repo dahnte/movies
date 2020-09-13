@@ -1,8 +1,10 @@
-# Movie Matcher (v5)
+# Movie Matcher (v5):
+
+*WARNING* - Extract files before you run, otherwise you will not get results and will be unable to modify lists!
+
 Latest version includes:
   - Overall stability
   + Added a results file that shows movies agreed on, indifferent about, and maybe's in neat .txt file (should appear in same file where .exe was ran)
-    
   
   Now specifics:
   
